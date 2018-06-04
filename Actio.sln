@@ -17,6 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actio.Services.Identity", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actio.Services.Activites", "Actio.Services.Activites\Actio.Services.Activites.csproj", "{1F21B6F9-6645-4C21-9C49-F03CBBFF9C9E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Architecture", "Architecture", "{E1F2616E-7EAC-4509-8419-F3981ED624C0}"
+	ProjectSection(SolutionItems) = preProject
+		Architecture.png = Architecture.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
